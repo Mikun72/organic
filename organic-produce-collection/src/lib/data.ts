@@ -74,6 +74,7 @@ export const products: Product[] = [
     local: true,
     inSeason: true
   },
+  
   {
     id: 'mango-jucy',
     name: 'Juicy Mangoes',
